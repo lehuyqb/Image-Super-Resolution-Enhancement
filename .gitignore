@@ -1,0 +1,11 @@
+data/samples
+data/train
+data/val
+data/test
+
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz

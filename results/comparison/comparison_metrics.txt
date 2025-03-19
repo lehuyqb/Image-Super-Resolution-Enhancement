@@ -1,0 +1,5 @@
+Comparison results:
+Bicubic: PSNR=30.2dB, SSIM=0.85
+Bilinear: PSNR=29.5dB, SSIM=0.83
+Lanczos: PSNR=30.8dB, SSIM=0.87
+SRCNN: PSNR=32.5dB, SSIM=0.91

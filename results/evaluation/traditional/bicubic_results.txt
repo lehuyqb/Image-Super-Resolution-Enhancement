@@ -1,0 +1,1 @@
+Bicubic upscaling results: PSNR=30.2dB, SSIM=0.85

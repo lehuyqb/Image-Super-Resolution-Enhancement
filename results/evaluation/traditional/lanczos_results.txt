@@ -1,0 +1,1 @@
+Lanczos upscaling results: PSNR=30.8dB, SSIM=0.87

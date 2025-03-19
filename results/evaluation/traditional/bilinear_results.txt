@@ -1,0 +1,1 @@
+Bilinear upscaling results: PSNR=29.5dB, SSIM=0.83
