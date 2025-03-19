@@ -32,7 +32,7 @@ There are several ways to contribute to this project:
 
 1. **Fork the repository** and clone your fork:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Image-Super-Resolution-Enhancement.git
+   git clone https://github.com/lehuyqb/Image-Super-Resolution-Enhancement.git
    cd Image-Super-Resolution-Enhancement
    ```
 
