@@ -7,7 +7,7 @@ This guide will help you get started with the Image Super-Resolution & Enhanceme
 1. Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Image-Super-Resolution-Enhancement.git
+git clone https://github.com/lehuyqb/Image-Super-Resolution-Enhancement.git
 cd Image-Super-Resolution-Enhancement
 pip install -r requirements.txt
 ```

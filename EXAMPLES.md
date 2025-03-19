@@ -167,9 +167,6 @@ python download_dataset.py --dataset set5 set14 urban100 --output_dir data
 ### Using Pre-trained Models
 
 ```bash
-# Download pre-trained models (if available)
-wget -P saved_models https://example.com/path/to/pretrained/srcnn_model.h5
-wget -P saved_models https://example.com/path/to/pretrained/srgan_generator.h5
 
 # Run inference with pre-trained model
 python inference.py --input_image your_image.jpg --model srcnn \
